@@ -185,7 +185,7 @@ endmodule
 ![](https://github.com/Aashima02/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/TF.png)
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
-1) SR FLIP FLOP:
+1) SR FLIP FLOP:<br>
 ![](https://github.com/Aashima02/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/RSFT.jpeg)
 2) D FLIP FLOP:<br>
 ![](https://github.com/Aashima02/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/DFT.jpeg)
